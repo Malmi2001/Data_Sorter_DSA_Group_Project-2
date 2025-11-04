@@ -39,11 +39,16 @@ Team Roles & Contributions
 | **D.M. Samith Roshan** | 22UG3-0690 | Member 3 | Developed Quick Sort and integrated performance measurement |
 | **Y.K.M.M. Malmi Madhubhashini** | 22UG3-0167 | Member 4 | Built data generation, comparison logic, results table, and user interface |
 
-Project Structure
-src/
-├── Main.java               // Entry point with menu interface
-├── BubbleSort.java         // Bubble Sort implementation with step tracking
-├── MergeSort.java          // Merge Sort implementation with performance metrics
-├── QuickSort.java          // Quick Sort implementation with performance metrics
-├── DataHandler.java        // Data input, generation, and comparison logic
+
+File Structure
+| File             | Description                                                                 |
+|------------------|-----------------------------------------------------------------------------|
+| `Main.java`      | Entry point of the program. Contains the menu interface and user interaction logic. |
+| `BubbleSort.java`| Implements Bubble Sort algorithm with step tracking and performance metrics. |
+| `MergeSort.java` | Implements Merge Sort algorithm with performance measurement.               |
+| `QuickSort.java` | Implements Quick Sort algorithm with performance measurement.               |
+| `DataHandler.java`| Manages data input, random data generation, and comparison of sorting algorithms’ performance. |
+
+**Link**
+
 
