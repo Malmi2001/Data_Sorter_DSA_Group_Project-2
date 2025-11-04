@@ -1,18 +1,21 @@
-Data Sorter – Sorting Algorithm Comparison Tool
+**Data Sorter – Sorting Algorithm Comparison Tool**
 
-Overview
+**Overview**
+
 This console-based Java application compares the performance of three classic sorting algorithms—Bubble Sort, Merge Sort, and Quick Sort—by measuring execution time and step count. It helps users visualize the impact of algorithmic complexity on sorting efficiency.
 
 Developed as part of Practical Assignment 2 (Week 12) for CIT-331, this tool integrates concepts from Weeks 1–11 including arrays, sorting techniques, and algorithmic analysis.
 
-Objectives
+**Objectives**
+
 - Allow users to input or generate datasets.
 - Implement and run Bubble Sort, Merge Sort, and Quick Sort.
 - Measure and display execution time and step count for each algorithm.
 - Provide a comparative summary table.
 - Ensure a clean, menu-driven interface with input validation.
 
-Features
+**Features**
+
 - Manual or random data entry
 - Bubble Sort with step tracking
 - Merge Sort with performance metrics
@@ -20,7 +23,8 @@ Features
 - Summary comparison table
 - Console-based menu interface
 
-Menu Structure
+**Menu Structure**
+
 --- Data Sorter: Sorting Algorithm Comparison Tool ---
 1. Enter numbers manually
 2. Generate random numbers
@@ -31,7 +35,8 @@ Menu Structure
 7. Exit
 Enter your choice:
 
-Team Roles & Contributions
+**Team Roles & Contributions**
+
 | Member | Student ID | Role | Major Contribution |
 |--------|-------------|------|--------------------|
 | **M.D. Kavindu Kawshalya Vidumina Gunathilaka*** | 22UG3-0667 | Member 1 | Implemented Bubble Sort with step count tracking |
@@ -40,7 +45,8 @@ Team Roles & Contributions
 | **Y.K.M.M. Malmi Madhubhashini** | 22UG3-0167 | Member 4 | Built data generation, comparison logic, results table, and user interface |
 
 
-File Structure
+**File Structure**
+
 | File             | Description                                                                 |
 |------------------|-----------------------------------------------------------------------------|
 | `Main.java`      | Entry point of the program. Contains the menu interface and user interaction logic. |
@@ -50,5 +56,7 @@ File Structure
 | `DataHandler.java`| Manages data input, random data generation, and comparison of sorting algorithms’ performance. |
 
 **Link**
+
+https://github.com/Malmi2001/Data_Sorter_DSA_Group_Project-2
 
 
